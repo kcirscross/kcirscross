@@ -1,4 +1,12 @@
+<h1 align="center">Hi 👋, I'm Tiramitzu</h1>
+<h3 align="center">Call me Tira</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kcirscross&label=Profile%20views&color=0e75b6&style=flat" alt="kcirscross" /> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kcirscross&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/traafnduxng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="traafnduxng" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
