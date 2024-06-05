@@ -2,7 +2,6 @@
 <h3 align="center">Call me Dũng</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcirscross&label=Profile%20views&color=0e75b6&style=flat" alt="kcirscross" /> </p>
 
-//[![trophy](https://github-profile-trophy.vercel.app/?username=kcirscross&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
